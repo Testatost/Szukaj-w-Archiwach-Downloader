@@ -3,7 +3,7 @@ File-Downloader for Szukaj w Archiwach 🇩🇪 🇬🇧 🇵🇱 🇷🇺
 
 ![alt text](https://github.com/Testatost/Szukaj-w-Archiwach-Downloader/blob/main/szdownloader.png?raw=true)
 
-![Watch the video](https://github.com/Testatost/Szukaj-w-Archiwach-Downloader/blob/main/Anleitung.mp4)
+![Watch the video](https://github.com/Testatost/Szukaj-w-Archiwach-Downloader/blob/main/Anleitung.gif)
 
 # 🇩🇪 Deutsch
 
